@@ -1,6 +1,6 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "zuozm",
+  "short_name": "zzm",
   "icons": [
     {
       "src": "/favicon-16x16.png",
@@ -13,27 +13,12 @@
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-96x96.png",
+      "src": "/favicon-64x64.png",
       "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "/apple-touch-icon.png",
-      "type": "image/png",
-      "sizes": "180x180"
-    },
-    {
-      "src": "/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "sizes": "64x64"
     }
   ],
-  "theme_color": "#F898B9",
+  "theme_color": "#3f3f3f",
   "background_color": "#ffffff",
   "display": "standalone"
 }

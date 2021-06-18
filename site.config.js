@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '22486b024eda4ead8b80a8d50e734a9d',
+  rootNotionPageId: 'f20542a062af42e29d3b583853533f1f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: 'zzm',
-  domain: 'z-zm.cc',
+  domain: 'zzuo.cc',
   author: 'zm zuo',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'zzm',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
